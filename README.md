@@ -80,7 +80,7 @@ Edge-Native Architecture — Cloudflare-powered, zero-server deployment stack
 
 ## Get Involved
 - ⭐ Star the repos to follow progress
-- ☕ [Buy me a coffee](buymeacoffee.com/ioxtra) to support development
+- ☕ [Buy me a coffee](https://buymeacoffee.com/ioxtra) to support development
 
   We use Buy Me a Coffee to fund:
 
