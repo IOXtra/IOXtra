@@ -22,7 +22,7 @@ Markdown-powered. Built for creators, developers, and dreamers.
 
 ## Who We Are
 
-**🎧 A Sound Engineer and Composer**,
+**🎧 A Sound Engineer and Composer**
 
 Natural with:
 
@@ -33,14 +33,25 @@ Natural with:
 
 the mix of art, science, and engineering brings ideas to life — from perfectly mixed tracks to smart, AI-assisted studio workflows.
 
+**💻 Systems Architect | ICT Consultant | Developer**
 
-**💻 Systems Architect & Developer**
+Experience:
 
-With over 28 years of experience in:
+With over 28 years of hands-on experience in:
 
-- Designing and building scalable systems and web architectures
-- Deploying and managing cloud and on-premise infrastructures
-- Innovating with edge deployment technologies
+- Systems design & architecture – building scalable, reliable, and secure infrastructures.
+- ICT consulting – advising and implementing technology strategies for businesses.
+- Software & web development – from backend automation to full-stack applications.
+- Cloud and on-premise environments – deployment, migration, and integration.
+- Edge & hybrid computing – optimizing performance at the network edge.
+- Custom Linux systems – ArchLinux and tailored distributions for specialized use.
+- Cross-platform support – Linux, Android, Windows, and mixed environments.
+- Automation & scripting – Bash, Python, Go, and modern CI/CD workflows.
+
+Approach:
+- Pragmatic, security-minded, and performance-focused.
+- Designs that follow KISS, DRY, and zero-waste architecture principles.
+- Dedicated to creating resilient, efficient, and maintainable systems that just work.
 
 Now distilled into one clear goal — 
 
