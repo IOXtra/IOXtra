@@ -1,4 +1,4 @@
-## ☕ About IOXtra
+# ☕ About IOXtra
 
 We’re IOXtra — a small studio. building things we love:
 
@@ -7,13 +7,13 @@ We’re IOXtra — a small studio. building things we love:
 
 ---
 
-> Latest News:
->
-> 🦦 [WEASuite](https://github.com/IOXtra/WEASuite) built on [WEAStack](https://github.com/IOXtra/WEAStack) is a local-first publishing environment.
->
+## Latest News:
+
+🦦 [WEASuite](https://github.com/IOXtra/WEASuite) built on [WEAStack](https://github.com/IOXtra/WEAStack) is a local-first publishing environment.
+
 > Create offline. Build instantly. Publish anywhere — from your laptop to the edge.
->
-> Markdown-powered. Built for creators, developers, and dreamers.
+
+Markdown-powered. Built for creators, developers, and dreamers.
 
 
 ---
@@ -52,6 +52,9 @@ Currently developing [WEASuite](https://github.com/IOXtra/WEASuite) built on our
 Together, we blend code, creativity, and sound — using AI and edge technology to empower creators, students, and professionals alike.
 
 
+---
+
+
 ## 🦦 Our Current Projects
 
 WEASuite / WEAStack — Create → Build → Publish — the offline-first stack
@@ -59,6 +62,9 @@ WEASuite / WEAStack — Create → Build → Publish — the offline-first stack
 AI Audio Tools — sound cleanup & plugin engineering for music producers
 
 Edge-Native Architecture — Cloudflare-powered, zero-server deployment stack
+
+
+---
 
 
 ## Get Involved
@@ -74,9 +80,10 @@ Edge-Native Architecture — Cloudflare-powered, zero-server deployment stack
   Every coffee helps us push these projects forward — one line of code, one plugin, one sound at a time.
 
 
+---
 
 
-## ❤️ Thank You To All That Support
+## ❤️ Lastly, Thank You To All That Support
 
 Whether you’re supporting for the love of music, code, or independent creation —
 
