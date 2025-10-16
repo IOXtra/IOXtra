@@ -1,4 +1,4 @@
-# ☕ About IOXtra
+# About IOXtra
 
 We’re IOXtra — a small studio. building things we love:
 
@@ -55,7 +55,7 @@ Together, we blend code, creativity, and sound — using AI and edge technology 
 ---
 
 
-## 🦦 Our Current Projects
+## Our Current Projects
 
 WEASuite / WEAStack — Create → Build → Publish — the offline-first stack
 
