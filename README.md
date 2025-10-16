@@ -1,6 +1,11 @@
-# IOXtra
-I/O Extra
+## ☕ About IOXtra
 
+We’re IOXtra — a small studio. building things we love:
+
+> from AI-powered workflows to edge-native software.
+
+
+---
 
 > Latest News:
 >
@@ -12,15 +17,6 @@ I/O Extra
 
 
 ---
-
-
-
-
-## ☕ About IOXtra
-
-We’re IOXtra — a small studio. building things we love:
-
-from AI-powered workflows to edge-native software.
 
 
 
@@ -87,7 +83,8 @@ Whether you’re supporting for the love of music, code, or independent creation
 > thank you. You’re helping us build tools that make creativity faster, smarter, and beautifully human.
 
 — IOXtra
-  Code & Sound · Art & Engineering
+
+Code & Sound · Art & Engineering
 
 
 
